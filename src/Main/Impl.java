@@ -27,6 +27,7 @@ public class Impl {
         System.out.println("student.getEmail() = " + student.getEmail());
         System.out.println("student.getRollNumber() = " + student.getRollNumber());
         System.out.println("student.getAge() = " + student.getAge());
+        System.out.println("student.getAadhaarIDNumber() = " + student.getAadhaarIDNumber());
 
 
     }
